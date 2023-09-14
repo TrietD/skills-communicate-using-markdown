@@ -6,3 +6,7 @@ Add a header to empty index.md file
 ``` javascript
 window.print("Hello World");
 ```
+
+- [x] Finish Classwork
+- [x] Run DnD 1st Session
+- [ ] Finish Performance Work
